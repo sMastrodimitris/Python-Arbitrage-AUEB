@@ -4,7 +4,6 @@ Semester assignment for the course "Introduction to Quantitative Finance and Fin
 
 
 # Triangular and One-way Arbitrage #
-____________________________________________________________________________________________________________________________________________________________________________
 
 ### Goals of the assignment ###
 
