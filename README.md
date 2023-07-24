@@ -3,7 +3,7 @@ Semester assignment for the course "Introduction to Quantitative Finance and Fin
 
 
 
-Triangular and One-way Arbitrage
+# Triangular and One-way Arbitrage #
 ____________________________________________________________________________________________________________________________________________________________________________
 
 ### Goals of the assignment ###
@@ -21,7 +21,7 @@ The program must produce the corresponding trades.
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
-###Files###
+### Files ###
 
 1)The file "Quotation Matrix.xlsx" contains all necessary information for the exchange rates.
 
