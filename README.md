@@ -26,4 +26,4 @@ ________________________________________________________________________________
 
 2)The files "One Way Arbitrage.ipynb" and "Triangular Arbitrage.ipynb" have the python code for the one-way and triangular trades respectively.
 
-3)The file "Report.pdf" have theoretical explainations about one-way arbitrage and triangular arbitrage and further explainations about the method used for the coding solutions. 
+3)The file "Report.pdf" have theoretical explainations about one-way arbitrage and triangular arbitrage. Also contain further explainations about the method used for the coding solutions. 
