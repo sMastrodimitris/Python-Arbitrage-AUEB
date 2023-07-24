@@ -4,9 +4,9 @@ Semester assignment for the course "Introduction to Quantitative Finance and Fin
 
 
 Triangular and One-way Arbitrage
+____________________________________________________________________________________________________________________________________________________________________________
 
-
-Goals of the assignment 
+### Goals of the assignment ###
 
 Consider the attached Quotation Matrix. 
 After downloading it, you will open it, and then save it locally on your computer. 
@@ -19,7 +19,7 @@ Write a second program that explores all possibilities of one-way-arbitrage, aft
 The program must produce the corresponding trades.
 
 
-
+_______________________________________________________________________________________________________________________________________________________________________________
 
 The file "Quotation Matrix.xlsx" contains all necessary information for the exchange rates.
 
