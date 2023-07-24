@@ -3,7 +3,7 @@ Semester assignment for the course "Introduction to Quantitative Finance and Fin
 
 
 
-###Triangular and One-way Arbitrage
+Triangular and One-way Arbitrage
 
 
 Goals of the assignment 
