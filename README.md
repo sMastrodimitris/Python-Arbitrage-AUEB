@@ -21,8 +21,10 @@ The program must produce the corresponding trades.
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
-The file "Quotation Matrix.xlsx" contains all necessary information for the exchange rates.
+###Files###
 
-The files "One Way Arbitrage.ipynb" and "Triangular Arbitrage.ipynb" have the python code for the one-way and triangular trades respectively.
+1)The file "Quotation Matrix.xlsx" contains all necessary information for the exchange rates.
 
-The file "Report.pdf" have theoretical explainations about one-way arbitrage and triangular arbitrage and further explainations about the method used for the coding solutions. 
+2)The files "One Way Arbitrage.ipynb" and "Triangular Arbitrage.ipynb" have the python code for the one-way and triangular trades respectively.
+
+3)The file "Report.pdf" have theoretical explainations about one-way arbitrage and triangular arbitrage and further explainations about the method used for the coding solutions. 
